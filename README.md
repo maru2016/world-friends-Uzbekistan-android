@@ -1,3 +1,3 @@
-# Android Lecture - worldfriends DaehwaKim
+# Android Lecture - worldfriends
 
-I hope everyone download it and fill skeleton and run yourself! Enjoy! :-)
+I hope everyone download it, fill skeleton and run yourself! Enjoy! :-)
